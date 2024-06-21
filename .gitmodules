@@ -1,0 +1,9 @@
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/llvm/llvm-project.git
+[submodule "eigen"]
+	path = eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost.git
